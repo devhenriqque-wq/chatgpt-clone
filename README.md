@@ -49,7 +49,7 @@ npm start
 
 ## 📚 Formação
 
-Baseado na formação **ChatGPT for Devs**, com foco em:
+Baseado na formação **ChatGPT for Devs** da :contentReference[oaicite:0]{index=0}, com foco em:
 
 - Uso profissional de IA no desenvolvimento
 - Criação de prompts eficientes
