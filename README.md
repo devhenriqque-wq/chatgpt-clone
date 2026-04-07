@@ -35,12 +35,14 @@ O principal objetivo não foi apenas construir a aplicação, mas aprender a uti
 
 ## ▶️ Como rodar
 
-### Backend
+### 🔹 Backend
+
 cd server  
 npm install  
-npm run dev  
+npm start  
 
-### Frontend
+### 🔹 Frontend
+
 cd web  
 npm install  
 npm start  
